@@ -6,7 +6,7 @@ Gracias por ayudarnos a mantener HeaderGuard seguro para todos.
 - Se da soporte a la rama principal y a la última versión publicada (rolling release).
 
 ## Cómo reportar vulnerabilidades
-- **Privadamente** por email a: **security@tu-dominio.tld** (cámbialo por tu dirección real).
+- **Privadamente** por email a: **ajmelper@gmail.com** (cámbialo por tu dirección real).
 - Incluye: descripción, pasos de reproducción, impacto, versión/commit, y PoC si es posible.
 - **No** publiques información sensible en issues públicos.
 - Objetivo de **respuesta inicial**: 72h. Objetivo de **remediación**: 30–90 días según severidad (CVSS).
